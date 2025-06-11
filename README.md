@@ -11,4 +11,4 @@ A responsive calculator built using HTML, CSS, and JavaScript, deployed on GitHu
 
 ## Demo
 
-[Live Calculator](https://github.com/NihanthBhargav/Modern-Calculator.git)  
+[Live Calculator](https://nihanthbhargav.github.io/Modern-Calculator/)  
